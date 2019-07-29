@@ -2,7 +2,7 @@
 	"private": true,
 	"name": "@ordbok/typedoc-theme",
 	"version": "0.5.0",
-	"author": "Sebastian Lenz, ORDBOK contributors",
+	"author": "Sebastian Lenz & ORDBOK contributors",
     "license": "Apache-2.0",
 	"description": "TypeDoc theme for the ORDBOK API documentation",
 	"keywords": [
