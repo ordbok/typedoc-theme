@@ -1,0 +1,27 @@
+{
+	"private": true,
+	"name": "@ordbok/typedoc-theme",
+	"version": "0.5.0",
+	"author": "Sebastian Lenz, ORDBOK contributors",
+    "license": "Apache-2.0",
+	"description": "TypeDoc theme for ORDBOK API documentations",
+	"keywords": [
+		"dictionary",
+		"ordbok",
+        "theme",
+        "typedoc"
+	],
+	"bugs": "https://github.com/ordbok/typedoc-theme/issues",
+	"homepage": "https://github.com/ordbok/typedoc-theme#readme",
+	"repository": "https://github.com/ordbok/typedoc-theme.git",
+	"files": [
+		"bin",
+		"LICENSE",
+		"README.md"
+	],
+	"main": "bin/plugin.js",
+	"scripts": {
+		"release": "npm publish --access=public --tag next",
+		"release-as-stable": "npm publish --access=public"
+    }
+}
