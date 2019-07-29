@@ -1,6 +1,6 @@
 # TypeDoc Theme for the ORDBOK API Documentation
 
-This package contains a modified version of the default themes of TypeDoc.
+This package contains a modified version of the default theme of TypeDoc.
 Visit http://typedoc.org/ to learn more about TypeDoc.
 
 
